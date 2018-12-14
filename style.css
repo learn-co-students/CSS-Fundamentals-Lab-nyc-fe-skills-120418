@@ -3,3 +3,46 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+nav a {
+  background: #dce0e8;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+nav a:hover {
+  color: #e55959;
+  text-decoration: underline;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 15px;
+}
+
+figcaption {
+  padding: 10px;
+  font-size: 15px; 
+  text-align: center;
+}
+
+
+#details {
+  display: block;
+  float: center;
+}
+
+div {
+  width: 50%;
+}
+
+
