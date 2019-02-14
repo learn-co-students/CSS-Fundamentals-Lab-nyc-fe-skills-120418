@@ -1,5 +1,44 @@
+header {
+  text-align: center;
+}
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
 }
+
+image {
+  image-align: center;
+}
+
+nav {
+  align: center;
+}
+
+a {
+  padding: 10px;
+}
+
+figcaption {
+  font-size: small;
+  text-align: center;
+}
+
+#featured-property {
+  text-align: center;
+  width: 800px;
+}
+
+#details {
+  display: block;
+  background: red;
+  }
+  
+  #details>div {
+  float: left;
+  text-align: center;
+  width: 25%;
+  background: red;
+}
+
